@@ -2,7 +2,7 @@
 
 
 let number1 = Number(prompt("Enter your first number:"));
-const op = parseInt(prompt("Enter your operator ( +, =, *, / ):"));
+const op = prompt("Enter your operator ( + , - , * , / )");
 let number2 = Number(prompt("Enter your second number:"));
 
 let result;
